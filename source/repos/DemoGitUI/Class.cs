@@ -9,6 +9,7 @@ namespace DemoGitUI
             Customer cus=new Customer();
             Console.WriteLine("New Customer"+cus);
             Console.WriteLine("Class Second line added");
+            Console.WriteLine("TOday Line added");
         }
     }
 }
